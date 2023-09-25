@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Dakota. My email address is dakotaevans44@gmail.com. This account will be used for classes at my school. I created a repository named ddakota11. To clone it I downloaded the GitHub app, then signed in on the laptop app and after I cloned it.
 <!--
 **ddakota11/ddakota11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
